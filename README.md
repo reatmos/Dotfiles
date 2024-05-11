@@ -12,8 +12,9 @@ i3wm dotfiles for Yang_Azi theme
 2. Polybar
 3. Rofi
 4. Kitty
-5. Neofetch
-6. Wallpaper Engine
+5. Neovim
+6. Neofetch
+7. Wallpaper Engine
 
 ==================================================
 
