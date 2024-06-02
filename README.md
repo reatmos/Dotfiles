@@ -15,6 +15,7 @@ i3wm dotfiles for Yang_Azi theme
 5. Neovim
 6. Neofetch
 7. Wallpaper Engine
+8. Maim
 
 ==================================================
 
