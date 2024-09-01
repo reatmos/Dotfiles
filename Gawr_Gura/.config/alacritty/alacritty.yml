@@ -1,0 +1,37 @@
+window:
+  background_opacity: 0.9
+
+hints:
+  enabled:
+  - regex: "(mailto:|gemini:|gopher:|https:|http:|news:|file:|git:|ssh:|ftp:)\
+            [^\u0000-\u001F\u007F-\u009F<>\"\\s{-}\\^⟨⟩`]+"
+    command: xdg-open
+    post_processing: true
+    mouse:
+      enabled: true
+      mods: Control
+
+colors:
+  primary:
+    background: '#123353' #'0xf8f8f8'
+    foreground: '#F5F7FA' #'0x2a2b33'
+
+  normal:
+    black:   '#45475A' #'0x000000'
+    red:     '#F38BA8' #'0xde3d35'
+    green:   '#A6E3A1' #'0x3e953a'
+    yellow:  '#F9E2AF' #'0xd2b67b'
+    blue:    '#89B4FA' #'0x2f5af3'
+    magenta: '#F5C2E7' #'0xa00095'
+    cyan:    '#89DCEB' #'0x3e953a'
+    white:   '#BAC2DE' #'0xbbbbbb'
+
+  bright:
+    black:   '0x000000'
+    red:     '0xde3d35'
+    green:   '0x3e953a'
+    yellow:  '0xd2b67b'
+    blue:    '0x2f5af3'
+    magenta: '0xa00095'
+    cyan:    '0x3e953a'
+    white:   '0xffffff'
