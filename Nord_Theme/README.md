@@ -7,9 +7,7 @@ i3wm dotfiles for Nord theme
 
 ![Thu 26 Sep 16_05_16 KST 2024](https://github.com/user-attachments/assets/c11914e2-165f-4b59-9f76-c2c0b527de8a)
 
-==================================================
-
-[Requirements]
+## Requirements
 1. i3wm
 2. Picom
 3. Polybar
@@ -23,9 +21,7 @@ i3wm dotfiles for Nord theme
 11. Yazi
 12. PulseAudio
 
-==================================================
-
-Note
+## Note
 - https://github.com/adi1090x/rofi
 - https://github.com/adi1090x/polybar-themes
 - https://github.com/Chick2D/neofetch-themes
