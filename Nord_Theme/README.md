@@ -29,3 +29,4 @@ Note
 - https://github.com/adi1090x/rofi
 - https://github.com/adi1090x/polybar-themes
 - https://github.com/Chick2D/neofetch-themes
+- https://github.com/NvChad/NvChad
