@@ -11,6 +11,6 @@ These are i3wm dotfiles based on my favorite characters.
 
 ![GVl6STMbgAYpoIJ](https://github.com/user-attachments/assets/d9627569-791e-4462-bfe7-08a445e282fb)
 
-3. NordTheme
+3. Nord Theme
 
 ![Thu 26 Sep 16_03_59 KST 2024](https://github.com/user-attachments/assets/c66287db-7beb-4e4f-a9e6-b4ec581ceb1b)
