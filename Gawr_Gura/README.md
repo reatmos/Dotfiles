@@ -7,9 +7,7 @@ i3wm dotfiles for Gawr_Gura theme
 
 ![GVl6dO6bgAYaLor](https://github.com/user-attachments/assets/eaf027e1-d652-4676-ac52-da986648322d)
 
-==================================================
-
-[Requirements]
+## Requirements
 1. i3wm
 2. Picom
 3. Polybar
@@ -22,9 +20,7 @@ i3wm dotfiles for Gawr_Gura theme
 10. Maim
 11. Yazi
 
-==================================================
-
-Note
+## Note
 - https://github.com/adi1090x/polybar-themes
 - https://github.com/Chick2D/neofetch-themes
 - https://github.com/FireStreaker2/dotfiles
