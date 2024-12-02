@@ -1,5 +1,5 @@
 # Dotfiles
-i3wm dotfiles for Gawr_Gura theme
+i3wm dotfiles for Gawr Gura theme
 
 ![GVl6STMbgAYpoIJ](https://github.com/user-attachments/assets/3d98a6f3-4111-4983-8a30-e719db47f1c3)
 
