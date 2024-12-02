@@ -19,6 +19,11 @@ i3wm dotfiles for Shirayuki Hina theme
 9. feh
 10. Maim
 11. Yazi
+12. PulseAudio
 
 ## Note
+- https://github.com/adi1090x/rofi
 - https://github.com/adi1090x/polybar-themes
+- https://github.com/Chick2D/neofetch-themes
+- https://github.com/NvChad/NvChad
+
