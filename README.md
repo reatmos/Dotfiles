@@ -14,3 +14,7 @@ These are i3wm dotfiles based on my favorite characters.
 3. Nord Theme
 
 ![Thu 26 Sep 16_03_59 KST 2024](https://github.com/user-attachments/assets/c66287db-7beb-4e4f-a9e6-b4ec581ceb1b)
+
+4. Shirayuki Hina
+
+![Mon 28 Oct 13:44:40 KST 2024](https://github.com/user-attachments/assets/390bfd88-be2e-429d-b440-264463c7c75f)
