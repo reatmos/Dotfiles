@@ -1,5 +1,5 @@
 # Dotfiles
-i3wm dotfiles for Yang_Azi theme
+i3wm dotfiles for Yang Azi theme
 
 ![Sat Apr 20 06:43:23 PM KST 2024](https://github.com/reatmos/Dotfiles/assets/66520964/62888c0f-09df-425f-a0fd-c138d3f875bd)
 
